@@ -1,6 +1,8 @@
 Marolo
 ======
 
+[![Join the chat at https://gitter.im/grupythonUFLA/marolo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/grupythonUFLA/marolo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Projeto inicialmente desenvolvido pelo Grupython UFLA, com intuito de
 agregar conhecimento aos participantes do grupo e ajudar membros de
 um grupo de estudo da universidade, mas com o tempo acabou sendo abandonado.
